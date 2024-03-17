@@ -105,22 +105,38 @@ Las cuatro ofrecen una usabilidad similar en cuanto a la búsqueda de actividade
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
+Ambas podrían ser personas reales, pues son deportistas, les encanta la naturaleza, y ambos tienen aluna razón por las que le podrían gustar este tipo de actividades. A Sofía le gusta el vino y las actividades al aire libre, por otro lado a Óscar le gusta conocer la gastronomía típica de los lugares que visita y no puede dejar pasar esta oportunidad.
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P1/capturas/Oscar.png?raw=true" alt="Imagen representativa">
+</p>
+
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P1/capturas/Sofia.png?raw=true" alt="Imagen representativa">
+</p>
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
+Se podría decir que el "Journey Map" de Sofía es más típico, pues encuentra una actividad y organiza a su grupo de amigos para relizarla, sin embargo Óscar está sólo y aun así quiere realizar una de estas experiencias. Tendrá que ponerse en contacto con la plataforma para ver qué solución le ofrecen, ya que la opción de "rellenar grupo" no aparece en la misma página.
 
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P1/capturas/OscarExperiencia.png?raw=true" alt="Imagen representativa">
+</p>
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P1/capturas/SofiaExperiencia.png?raw=true" alt="Imagen representativa">
+</p>
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+>>> - Enlace al documento:  (https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P1/UsabilityReview.pdf) 
+>>> - Valoración final (70):
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P1/capturas/score.png?raw=true" alt="Imagen representativa">
+</p>
+>>> - Comentario sobre la valoración: 
+
 
 
 ## Paso 2. UX Design  
