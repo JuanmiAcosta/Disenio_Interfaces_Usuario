@@ -69,8 +69,39 @@ El propósito de este "User Research" es recopilar y analizar datos que ayuden a
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
+Hemos elegido la plataforma "Ruta de los vinos por Granada" porque nos saca un poco de nuestra zona de confort, y porque hemos encontrado defectos en ella que se podrían solucionar con un poco de esfuerzo y de mejor diseño.
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+Ya que hemos elegido esta página hemos decidido enfrentarla con una competidora en el mismo sector ( Cata del Vino ), y dos plataformas que ofrecen experiencias que pueden ser del mismo tipo ( Granada Cooking y SmartBox ).
+
+Este sería un mapa de posicionamiento que cuadraría estas empresas según Calidad y Precio
+
+
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P1/capturas/DAFO.png?raw=true" alt="Imagen representativa">
+</p>
+
+Además podríamos hacer un breve análisis DAFO de nuestra plataforma para situarla aún más:
+
+| Aspecto                                              | Descripción                                                                                                                                               |
+|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Fortalezas**                                       | - Se especializa totalmente en catas y actividades relacionadas con el vino. Por lo tanto, ofrece experiencias más especializadas y con más variedad.          |
+|                                                      | - Hace de intermediario entre bodegas y clientes, haciendo de la comunicación una experiencia más sencilla.                                               |
+| **Debilidades**                                      | - Sólo ofrece actividades en la provincia de Granada.                                                                                                      |
+|                                                      | - Al no ser nacional, no tiene tanta visibilidad como su competencia.                                                                                     |
+| **Oportunidades**                                    | - Ofrecer productos de mayor variedad y relacionados con las experiencias que oferta.                                                                     |
+|                                                      | - Tener convenios con bodegas de Granada, lo que hace que su oferta de experiencias sea más única.                                                        |
+| **Amenazas**                                         | - Empresas líder muy consolidadas en el sector de la distribución de experiencias.                                                                         |
+|                                                      | - Competencia que ofrece experiencias en todo el territorio español.                                                                                       |
+
+## Resumen del "Competitor Analysis"
+
+El modelo de negocio de las cuatro plataformas es similar, ofrecer actividades gastronómicas, aunque “Ruta de los Vinos de Granada” ofrece también productos autóctonos de sus mismas actividades.
+
+“Cata del vino” y “Ruta de los vinos Granada” no ofrecen un buscador general para la búsqueda, cosa que “Smart Box” y “Granada Cooking” sí hacen.
+
+Aunque el peor diseño a simple vista es el de “Cata del vino” (paleta de colores, márgenes, demasiados elementos …), a la hora de buscar actividad refleja muy bien si tiene parking, acceso  para personas con movilidad reducida …
+
+Las cuatro ofrecen una usabilidad similar en cuanto a la búsqueda de actividades.
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
