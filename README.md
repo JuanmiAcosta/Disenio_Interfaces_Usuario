@@ -31,7 +31,7 @@ La plataforma a analizar es "Rutas de los vinos por Granada", esta ofrece difere
 
 El propósito de este "User Research" es recopilar y analizar datos que ayuden al proceso de diseño y mejora de la experiencia de usuario en la plataforma a la hora de buscar y adquirir ciertos productos o experiencias.
 
-###Business Objective & KPIs
+##Business Objective & KPIs
 
 | Objetivos                                         | KPIs                                                                                   |
 |---------------------------------------------------|----------------------------------------------------------------------------------------|
@@ -46,7 +46,7 @@ El propósito de este "User Research" es recopilar y analizar datos que ayuden a
 | Aumentar la participación y la fidelización de los usuarios | - Número de usuarios que participan en actividades de enoturismo ofrecidas a través de la plataforma en un período de tiempo determinado. |
 |                                                   | - Tasa de conversión de usuarios que reservan una actividad de enoturismo después de explorar las opciones disponibles en la plataforma. |
 
-###Información cualitativa y cuantitativa a recoger. Métodos :
+##Información cualitativa y cuantitativa a recoger. Métodos :
 
 - **Información cualitativa:**
   - Entrevistas en Profundidad: Realizar entrevistas en profundidad con usuarios para explorar sus experiencias pasadas con el enoturismo, sus expectativas de una experiencia ideal y cualquier problema que hayan encontrado al reservar actividades relacionadas con el vino.
@@ -62,7 +62,7 @@ El propósito de este "User Research" es recopilar y analizar datos que ayuden a
   - Datos Demográficos y de Segmentación: Recopilar datos demográficos de los usuarios, como edad, género, ubicación geográfica e intereses relacionados con el vino, para comprender mejor su perfil y segmentar el público objetivo de manera más efectiva.
   - Análisis de Retroalimentación: Analizar los comentarios y sugerencias de los usuarios para identificar tendencias, áreas de mejora prioritarias y oportunidades de innovación en la plataforma y las actividades ofrecidas.
 
- ###Público objetivo
+ ##Público objetivo
   - Turistas que busquen experiencias típicas del lugar
   - Personas que realicen experiencias gastronómicas similares
   - Personas interesadas en el vino y la enología
