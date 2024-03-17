@@ -1,8 +1,8 @@
 # DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: ... ) 
 
-Grupo: DIU1_01AABB.  Curso: 2023/24 
-Updated: 11/2/2024
+Grupo: DIU1_ETSIITosos.  Curso: 2023/24 
+Updated: 17/03/2024
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -15,15 +15,10 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Juan Miguel Acosta Ortega   :octocat:     
+ * :bust_in_silhouette:  David Serrano Domínguez   :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
@@ -32,8 +27,45 @@ Miembros
 
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
+La plataforma a analizar es "Rutas de los vinos por Granada", esta ofrece diferentes tipo de actividades que se pueden realizar en Granada centradas en el vino y la enología,  ofreciendo la oportunidad de realizar diferentes catas y actividades similares.
 
->>> Describe el plan de User Research (cómo se planteas)  
+El propósito de este "User Research" es recopilar y analizar datos que ayuden al proceso de diseño y mejora de la experiencia de usuario en la plataforma a la hora de buscar y adquirir ciertos productos o experiencias.
+
+###Business Objective & KPIs
+
+| Objetivos                                         | KPIs                                                                                   |
+|---------------------------------------------------|----------------------------------------------------------------------------------------|
+| Entender las preferencias y necesidades de los usuarios | - Porcentaje de usuarios que valoran la facilidad de uso de la plataforma como "excelente" o "muy buena" en una encuesta de satisfacción. |
+|                                                   | - Tasa de retención de usuarios después de la primera reserva, que indica el nivel de satisfacción y compromiso inicial de los usuarios con la plataforma. |
+| Ofrecer experiencias con el vino como núcleo central | - Experiencias contratadas por localización                                           |
+|                                                   | - Experiencias contratadas por precio                                                  |
+|                                                   | - Productos vendidos por precio                                                         |
+|                                                   | - Productos vendidos por experiencias contratadas                                       |
+| Mejorar la experiencia de usuario en la plataforma | - Tiempo medio que los usuarios tardan en completar una reserva, lo que puede indicar la eficiencia y la facilidad de uso de la plataforma. |
+|                                                   | - Porcentaje de usuarios que abandonan el proceso de reserva antes de completarlo, lo que puede señalar posibles fricciones o problemas en la experiencia de usuario. |
+| Aumentar la participación y la fidelización de los usuarios | - Número de usuarios que participan en actividades de enoturismo ofrecidas a través de la plataforma en un período de tiempo determinado. |
+|                                                   | - Tasa de conversión de usuarios que reservan una actividad de enoturismo después de explorar las opciones disponibles en la plataforma. |
+
+###Información cualitativa y cuantitativa a recoger. Métodos :
+
+- **Información cualitativa:**
+  - Entrevistas en Profundidad: Realizar entrevistas en profundidad con usuarios para explorar sus experiencias pasadas con el enoturismo, sus expectativas de una experiencia ideal y cualquier problema que hayan encontrado al reservar actividades relacionadas con el vino.
+  - Grupos Focales: Organizar grupos focales con usuarios para discutir temas específicos, como las preferencias de actividades de enoturismo, las características deseables de una plataforma de reserva en línea o las barreras percibidas para participar en actividades relacionadas con el vino.
+  - Pruebas de Usabilidad: Realizar pruebas de usabilidad de la plataforma para observar cómo los usuarios interactúan con ella, identificar áreas de confusión o fricción, y recopilar retroalimentación sobre la experiencia de usuario.
+  - Comentarios y Opiniones: Recopilar comentarios y opiniones de los usuarios a través de formularios en línea, encuestas de satisfacción, reseñas de productos o redes sociales para entender sus percepciones y sugerencias de mejora.
+  - Observación Directa: Observar directamente a los usuarios mientras navegan por la plataforma, buscan actividades de enoturismo o realizan reservas para identificar patrones de comportamiento y puntos de dolor.
+  
+- **Información cuantitativa:**
+  - Datos de Uso de la Plataforma: Recopilar datos sobre la actividad de los usuarios en la plataforma, como el número de visitas, la duración de las sesiones, las páginas más visitadas y las acciones realizadas (por ejemplo, búsqueda, reserva, cancelación).
+  - Conversiones: Seguir métricas de conversión, como la tasa de reserva por visita, la tasa de abandono del proceso de reserva o la tasa de retorno de usuarios, para evaluar la eficacia de la plataforma para convertir visitantes en clientes.
+  - Satisfacción del Usuario: Utilizar encuestas de satisfacción para medir la satisfacción general de los usuarios con la plataforma, sus características y el proceso de reserva, utilizando escalas de valoración o preguntas abiertas para recopilar comentarios detallados.
+  - Datos Demográficos y de Segmentación: Recopilar datos demográficos de los usuarios, como edad, género, ubicación geográfica e intereses relacionados con el vino, para comprender mejor su perfil y segmentar el público objetivo de manera más efectiva.
+  - Análisis de Retroalimentación: Analizar los comentarios y sugerencias de los usuarios para identificar tendencias, áreas de mejora prioritarias y oportunidades de innovación en la plataforma y las actividades ofrecidas.
+
+ ###Público objetivo
+  - Turistas que busquen experiencias típicas del lugar
+  - Personas que realicen experiencias gastronómicas similares
+  - Personas interesadas en el vino y la enología
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
