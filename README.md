@@ -129,15 +129,39 @@ Se podría decir que el "Journey Map" de Sofía es más típico, pues encuentra 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
-
->>> - Enlace al documento:  (https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P1/UsabilityReview.pdf) 
->>> - Valoración final (70):
+  - Enlace al documento:  (https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P1/UsabilityReview.pdf)
+    
+  - Valoración final (70):
+    
 <p align="center">
   <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P1/capturas/score.png?raw=true" alt="Imagen representativa">
 </p>
->>> - Comentario sobre la valoración: 
 
+  - Comentario sobre la valoración: 
 
+Tras una revisión exhaustiva de la plataforma se ha llegado a la conclusión de las posibles mejoras:
+
+**Mejorar la Usabilidad de la Plataforma:**
+- Implementar una función de búsqueda general para facilitar la navegación y filtrado de actividades.
+- Manejar todos los errores inesperados de forma nativa dentro de la plataforma.
+- Abordar cualquier problema de usabilidad identificado a través de mejoras iterativas en el diseño basadas en la retroalimentación de los usuarios.
+
+**Ampliar la Oferta de Productos:**
+- Diversificar la gama de productos y experiencias ofrecidas en la plataforma para atraer a un público más amplio.
+
+**Mejorar la Cobertura Geográfica:**
+- Considerar la expansión más allá de la región de Granada para atraer a una audiencia más amplia e incrementar la visibilidad.
+- Explorar alianzas con bodegas en regiones vecinas para ofrecer una gama más amplia de experiencias.
+
+**Fortalecer el Marketing y la Visibilidad:**
+- Invertir en esfuerzos de marketing para aumentar la conciencia y visibilidad, especialmente fuera del área local.
+- Resaltar las ofertas únicas y los productos locales para diferenciarse de la competencia.
+
+**Investigación Continua con los Usuarios:**
+- Realizar investigaciones periódicas con los usuarios para mantenerse actualizado sobre las preferencias y necesidades en evolución.
+- Utilizar los conocimientos obtenidos para iterar y mejorar continuamente la plataforma, asegurando que permanezca relevante y atractiva para los usuarios.
+
+Al incorporar estas recomendaciones, "Ruta de los Vinos de Granada" puede mejorar su plataforma, ampliar sus ofertas y competir efectivamente en el mercado, mejorando así la satisfacción y el compromiso de los usuarios.
 
 ## Paso 2. UX Design  
 
