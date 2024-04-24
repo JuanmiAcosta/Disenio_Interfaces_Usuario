@@ -191,22 +191,21 @@ El mapa de empatía de nuestro proyecto quedaría de la siguiente manera:
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
-| User Groups                                          | Organizador | Capitán | Miembro de equipo | Espectador |                                                                                                                               |
-|------------------------------------------------------|-------------|---------|-------------------|------------|----------------------------------------------------------------------------------------------|
-| **Registrarse**                                      |      H      |
-| **Iniciar Sesión**                                   |      H      |
-| **Organizar Quedada**                                |      H      |
-| **Organizar juego online**                           |      H      |          |
-| **Organizador torneo**                               |      H      |
-| **Apuntarse a torneo**                               |             |
-| **Apuntarse a evento**                               |             |
-| **Apuntarse a partida online**                       |             |
-| **Buscar los eventos/torneos/quedadas creados**      |      M      |
-| **Consultar mis eventos organizados**                |      H      |  
-| **Consultar los eventos en los que participo**       |             |
-| **Consultar los eventos en los que participo**       |             |
-| **Consultar “Sobre nosotros”**                       |      M      |
-| **Contacto**                                         |      H      |
+| User Groups                                 | Organizador | Capitán  | Miembro de equipo | Espectador |
+|---------------------------------------------|-------------|----------|-------------------|------------|
+| Registrarse                                 | H           | H        | H                 | H          |
+| Iniciar sesión                              | H           | H        | H                 | H          |
+| Organizar quedada                           | H           |          |                   |            |
+| Organizar juego online                      | H           |          |                   |            |
+| Organizador torneo                          | H           |          |                   |            |
+| Apuntarse a Torneo                          |             | H        | L                 | L          |
+| Apuntarse a Evento                          |             | M        | M                 | M          |
+| Apuntarse a partida online                  |             |          | H                 | L          |
+| Buscar los eventos/torneos/quedadas creados | M           | H        | H                 | H          |
+| Consultar mis eventos organizados           | H           |          |                   |            |
+| Consultar los eventos en los que participo  |             | M        | M                 | M          |
+| Consultar “Sobre nosotros”                  | M           | L        | L                 | L          |
+| Contacto                                    | H           | M        | L                 | L          |
 
     
 
