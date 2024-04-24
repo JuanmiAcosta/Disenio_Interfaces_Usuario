@@ -229,13 +229,18 @@ Apuntarse a Evento/Quedada:
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+Nuestro sitemap para la navegación por nuestra página quedaría de la siguiente manera:
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/sitemap.png?raw=true" alt="Imagen representativa">
+</p>
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+| Label                             | Scope note                                                                                                                             |
+|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| Búsqueda de eventos               | Se podrá buscar tanto en un calendario ( en cada día se refleja los eventos que haya ) como en una barra de búsqueda insertando su id. |
+| Organizar evento                  | Se podrá organizar mediante un formulario un evento (ya sea quedada, torneo… )                                                         |
+| Apuntarse a un evento             | Al clickar un evento en el calendario o al apuntarse a un evento en general se nos reflejará un formulario para ello.                  |
+| Mis eventos organizados           | Puedo administrar los eventos que he organizado para hacer cambios si se requirieran.                                                  |
+| Eventos en los que estoy apuntado | Puedo acceder a los eventos en los que estoy apuntado para desapuntarme en caso de no poder asistir.                                   |
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
