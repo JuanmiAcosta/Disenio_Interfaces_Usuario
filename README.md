@@ -186,7 +186,11 @@ El mapa de empatía de nuestro proyecto quedaría de la siguiente manera:
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+Nuestro scope canvas sería el siguiente:
+
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/scopeCanvas.png?raw=true" alt="Imagen representativa">
+</p>
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
