@@ -250,17 +250,17 @@ hacerlo.
 
 Wireframe de páginal principal:
 <p align="center">
-  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/wireframePrincipal?raw=true" alt="Imagen representativa">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/wireframePrincipal.png?raw=true" alt="Imagen representativa">
 </p>
 
 Wireframe de buscar eventos:
 <p align="center">
-  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/wireframeBuscar?raw=true" alt="Imagen representativa">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/wireframeBuscar.png?raw=true" alt="Imagen representativa">
 </p>
 
 Wireframe de crear evento:
 <p align="center">
-  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/wireframeCrear?raw=true" alt="Imagen representativa">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/wireframeCrear.png?raw=true" alt="Imagen representativa">
 </p>
 
 ## Paso 3. Mi UX-Case Study (diseño)
