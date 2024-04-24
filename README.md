@@ -212,7 +212,7 @@ Ahora vamos a mostrar el task flow de tres tasks, en esta caso son: Iniciar Sesi
 
 Iniciar Sesion:
 <p align="center">
-  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/iniciarSesion.png?raw=true" alt="Imagen representativa">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/iniciar.png?raw=true" alt="Imagen representativa">
 </p>
 
 Buscar Evento:
