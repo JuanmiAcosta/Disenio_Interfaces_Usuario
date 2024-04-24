@@ -194,31 +194,18 @@ El mapa de empatía de nuestro proyecto quedaría de la siguiente manera:
 | User Groups                                          | Organizador | Capitán | Miembro de equipo | Espectador |                                                                                                                               |
 |------------------------------------------------------|-------------|---------|-------------------|------------|----------------------------------------------------------------------------------------------|
 | **Registrarse**                                      |      H      |
-|                                                      |             |
 | **Iniciar Sesión**                                   |      H      |
-|                                                      |             |
 | **Organizar Quedada**                                |      H      |
-|                                                      |             |
 | **Organizar juego online**                           |      H      |          |
-|                                                      |             |
 | **Organizador torneo**                               |      H      |
-|                                                      |             |
 | **Apuntarse a torneo**                               |             |
-|                                                      |             |
 | **Apuntarse a evento**                               |             |
-|                                                      |             |
 | **Apuntarse a partida online**                       |             |
-|                                                      |             |
 | **Buscar los eventos/torneos/quedadas creados**      |      M      |
-|                                                      |             |
 | **Consultar mis eventos organizados**                |      H      |  
-|                                                      |             |
 | **Consultar los eventos en los que participo**       |             |
-|                                                      |             |
 | **Consultar los eventos en los que participo**       |             |
-|                                                      |             |
 | **Consultar “Sobre nosotros”**                       |      M      |
-|                                                      |             |
 | **Contacto**                                         |      H      |
 
     
