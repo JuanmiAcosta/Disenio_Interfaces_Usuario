@@ -245,8 +245,25 @@ Nuestro sitemap para la navegación por nuestra página quedaría de la siguient
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Para los wireframes, hemos hecho el diseño de la página principal, es decir, lo primero que se encontraría un usuario no registrado cuando entra por primera vez en nuestra página,
+el segundo wireframe es el formulario que tendría que rellenar un organizador para poder realizar un evento, ya sea online o presencial y por último la opción de buscar eventos,
+ya sea por su nombre o fecha de realización de ambas maneras puede buscar un usuario el evento que desea, además de un notón para que en caso de querer apuntarse a dicho evento pueda 
+hacerlo.
 
+Wireframe de páginal principal:
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/wireframePrincipal?raw=true" alt="Imagen representativa">
+</p>
+
+Wireframe de buscar eventos:
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/wireframeBuscar?raw=true" alt="Imagen representativa">
+</p>
+
+Wireframe de crear evento:
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/wireframeCrear?raw=true" alt="Imagen representativa">
+</p>
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
