@@ -5,11 +5,15 @@ Grupo: DIU1_ETSIITosos.  Curso: 2023/24
 Updated: 17/03/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Comunidad LOL
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Nuestra propuesta trata de un club relacionado con el videojuego League of Legends, en el que los distintos miembros de la comunidad van a poder tanto participar como organizar eventos relacionados con la temática.
+La propuesta de valor es la de acercar a la comunidad del videojuego a eventos presenciales en los que conocerse y participar tanto en meetings como en torneos presenciales con organización previa.
+Tendremos cuatro roles: Organizador de eventos/torneos, el capitan de un equipo, miembros del equipo y espectadores.
+Luego tendremos tres actividades en nuestra comunidad: Torneos, jugar con otros jugadores al juego y quedadas/eventos presenciales.
+
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -168,6 +172,8 @@ Al incorporar estas recomendaciones, "Ruta de los Vinos de Granada" puede mejora
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
+El mapa de empatía de nuestro proyecto quedaría de la siguiente manera:
+
 ><p align="center">
   <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/Empathy Customer Map.png?raw=true" alt="Imagen representativa">
 </p>
@@ -177,13 +183,6 @@ Al incorporar estas recomendaciones, "Ruta de los Vinos de Granada" puede mejora
 | ------------- | -------
   Preguntas | Nuevas ideas
   
-    
-Nuestra propuesta trata de un club relacionado con el videojuego League of Legends, en el que los distintos miembros de la comunidad van a poder tanto participar como organizar eventos relacionados con la temática.
-
-La propuesta de valor es la de acercar a la comunidad del videojuego a eventos presenciales en los que conocerse y participar tanto en meetings como en torneos presenciales con organización previa.
-
-
-
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
@@ -191,6 +190,39 @@ La propuesta de valor es la de acercar a la comunidad del videojuego a eventos p
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
+
+| User Groups                                          | Organizador | Capitán | Miembro de equipo | Espectador |                                                                                                                               |
+|------------------------------------------------------|-------------|---------|-------------------|------------|----------------------------------------------------------------------------------------------|
+| **Registrarse**                                      |      H      |
+|                                                      |             |
+| **Iniciar Sesión**                                   |      H      |
+|                                                      |             |
+| **Organizar Quedada**                                |      H      |
+|                                                      |             |
+| **Organizar juego online**                           |      H      |          |
+|                                                      |             |
+| **Organizador torneo**                               |      H      |
+|                                                      |             |
+| **Apuntarse a torneo**                               |             |
+|                                                      |             |
+| **Apuntarse a evento**                               |             |
+|                                                      |             |
+| **Apuntarse a partida online**                       |             |
+|                                                      |             |
+| **Buscar los eventos/torneos/quedadas creados**      |      M      |
+|                                                      |             |
+| **Consultar mis eventos organizados**                |      H      |  
+|                                                      |             |
+| **Consultar los eventos en los que participo**       |             |
+|                                                      |             |
+| **Consultar los eventos en los que participo**       |             |
+|                                                      |             |
+| **Consultar “Sobre nosotros”**                       |      M      |
+|                                                      |             |
+| **Contacto**                                         |      H      |
+
+    
+
 
 >>> Definir "User Map" y "Task Flow" ... 
 
