@@ -178,12 +178,6 @@ El mapa de empatía de nuestro proyecto quedaría de la siguiente manera:
   <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/Empathy Customer Map.png?raw=true" alt="Imagen representativa">
 </p>
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 Nuestro scope canvas sería el siguiente:
