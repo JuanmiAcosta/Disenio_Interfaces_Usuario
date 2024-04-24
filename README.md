@@ -208,9 +208,22 @@ El mapa de empatía de nuestro proyecto quedaría de la siguiente manera:
 | Contacto                                    | H           | M        | L                 | L          |
 
     
+Ahora vamos a mostrar el task flow de tres tasks, en esta caso son: Iniciar Sesión, Buscar Evento y Apuntarse a Evento.
 
+Iniciar Sesion:
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/iniciarSesion.png?raw=true" alt="Imagen representativa">
+</p>
 
->>> Definir "User Map" y "Task Flow" ... 
+Buscar Evento:
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/buscarEvento.png?raw=true" alt="Imagen representativa">
+</p>
+
+Apuntarse a Evento/Quedada:
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/apuntarseEvento.png?raw=true" alt="Imagen representativa">
+</p>
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
