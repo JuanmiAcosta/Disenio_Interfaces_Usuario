@@ -165,12 +165,12 @@ Al incorporar estas recomendaciones, "Ruta de los Vinos de Granada" puede mejora
 
 ## Paso 2. UX Design  
 
-
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+><p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/Empathy Customer Map.png?raw=true" alt="Imagen representativa">
+</p>
 
 
  Interesante | Críticas     
@@ -178,10 +178,10 @@ Al incorporar estas recomendaciones, "Ruta de los Vinos de Granada" puede mejora
   Preguntas | Nuevas ideas
   
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+Nuestra propuesta trata de un club relacionado con el videojuego League of Legends, en el que los distintos miembros de la comunidad van a poder tanto participar como organizar eventos relacionados con la temática.
+
+La propuesta de valor es la de acercar a la comunidad del videojuego a eventos presenciales en los que conocerse y participar tanto en meetings como en torneos presenciales con organización previa.
+
 
 
 
