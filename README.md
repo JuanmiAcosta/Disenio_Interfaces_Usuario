@@ -323,7 +323,12 @@ Este sería nuestro diseño:
 [Layout Figma](https://www.figma.com/design/CcCHVL3LLKIueBs3EcpAnf/Layout?node-id=1%3A2772&t=b7OjrdzdyE4tft1u-1)
 [Layout en PDF](https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P3/app_movil.pdf)
 
+Este es un pequeño vídeo demostrativo del funcionamiento de la app:
 
+<video controls>
+      <source src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P3/simulacion.webm" type="video/webm">
+      Tu navegador no soporta el elemento de video.
+</video>
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
@@ -331,8 +336,17 @@ Este sería nuestro diseño:
 
 Las siguientes imágenes resumen de manera breve nuestro UX-Case Study publicado en este mismo Readme de Github:
 
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P3/pg1.png?raw=true" alt="Imagen representativa">
+</p>
 
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P3/pg2.png?raw=true" alt="Imagen representativa">
+</p>
 
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P3/pg3.png?raw=true" alt="Imagen representativa">
+</p>
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
