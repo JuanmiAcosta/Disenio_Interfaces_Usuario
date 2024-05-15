@@ -329,9 +329,9 @@ Este sería nuestro diseño:
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
+Las siguientes imágenes resumen de manera breve nuestro UX-Case Study publicado en este mismo Readme de Github:
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
+
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
