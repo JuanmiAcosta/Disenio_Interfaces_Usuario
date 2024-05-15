@@ -1,5 +1,5 @@
 # DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: ... ) 
+Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Club de Lol ) 
 
 Grupo: DIU1_ETSIITosos.  Curso: 2023/24 
 Updated: 17/03/2024
@@ -16,7 +16,10 @@ Luego tendremos tres actividades en nuestra comunidad: Torneos, jugar con otros 
 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P3/LOGO.png?raw=true" alt="Imagen representativa">
+</p>
 
 Miembros
  * :bust_in_silhouette:   Juan Miguel Acosta Ortega   :octocat:     
@@ -269,8 +272,15 @@ Wireframe de crear evento:
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-El moodboard para nuestro proyecto que incluye nuestro la estrategia de la marca, nuestro logo final, el eslogan, la paleta de nuestros colores básicos, la tipografica, imagenes de como serán los eventose e imagenes del estilo de la página.
-Diciendo todo lo anterior quedaría de la siguiente manera:
+Este es el moodboard para nuestro proyecto que incluye:
+<ul>
+  <li>nuestra estrategia de la marca</li> 
+  <li>Nuestro logo final</li>
+  <li>El eslogan</li>
+  <li>La paleta de colores. Esta, aunque basada en los colores del logo original del juego, se basa en colores complementarios y sus variantes más claras para las adevertencias y notificaciones.</li>
+  <li>la tipografía</li>
+  <li>Imágenes de como serán los eventos e imágenes del estilo de la página</li>
+</ul>
 <p align="center">
   <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P3/Moodboard.png?raw=true" alt="Imagen representativa">
 </p>
@@ -279,7 +289,7 @@ Diciendo todo lo anterior quedaría de la siguiente manera:
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-La landing page para promocionar nuestra página y hacer que distintos usuarios puedan interesarse y en caso de ser así pinchen en dicha landing page y les lleve a nuestra página.
+Nuestra Landing page tiene la motivación de atraer al público objetivo de este tipo de eventos y fidelizarlo a través de sistemas de organiozación y asistencia a eventos:
 <p align="center">
   <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P3/landing_page.png?raw=true" alt="Imagen representativa">
 </p>
@@ -287,21 +297,22 @@ La landing page para promocionar nuestra página y hacer que distintos usuarios 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-Los patrones usados han sido los obligatorios los cuales eran:
--Onboarding: Paǵina principal que ve un usuario al entrar a nuestra página
--Menu(Adaptada a móvil): Menú infrerior para navegar por las distintas páginas de nuestra app móvil.
--Carousel: Carosusel pada mostrar las actividades mas popukares, las que esta inscrito un usuario o las que ha creaod el mismo, cada uno de estos carousel en una página diferente de la app móvil.
--Search: Barra de búsqueda para buscar una actividad por su nombre
--Card items: Para representar las distintas actividades.
--Item details: Cada actividad tiene un nombre, descrpción de lo que se va a hacer en dicha actividad y la fecha de la misma.
--Reserva: En nuestra caso es inscribirse a una actividad.
--Form Input: Formulario para inscribirse en una actividad o crear una por un organizador de actividades.
--About: Una pequeña descrpción de quienes somos que hacemos y que eventos ofrecemos para que un usuario pueda inscribirse o crear el mismo uno.
-
-Como patron extra hemos añadido uno:
+Los patrones usados en el diseño de la aplicación hasn sido los siguientes:
+<ul>
+<li>Onboarding: Paǵina principal que ve un usuario al entrar a nuestra página</li>
+<li>Menu(Adaptada a móvil): Menú infrerior para navegar por las distintas páginas de nuestra app móvil.</li>
+<li>Carousel: Carosusel pada mostrar las actividades mas popukares, las que esta inscrito un usuario o las que ha creaod el mismo, cada uno de estos carousel en una página diferente de la app móvil.</li>
+<li>Search: Barra de búsqueda para buscar una actividad por su nombre</li>
+<li>Card items: Para representar las distintas actividades.</li>
+<li>Item details: Cada actividad tiene un nombre, descrpción de lo que se va a hacer en dicha actividad y la fecha de la misma.</li>
+<li>Reserva: En nuestra caso es inscribirse a una actividad.</li>
+<li>Form Input: Formulario para inscribirse en una actividad o crear una por un organizador de actividades.</li>
+<li>About: Una pequeña descrpción de quienes somos que hacemos y que eventos ofrecemos para que un usuario pueda inscribirse o crear el mismo uno.</li>
+</ul>
+Como patron extra hemos añadido el siguiente:
 -Event Calendar para poder buscar una actividad por una fceha o simplementa ver en un dia seleccionado que actividades hay disponibles para poder apuntarse uno.
 
-Aquí una imagen de la app móvil con los distintos patrones explicados incluidos:
+Este sería nuestro diseño:
 <p align="center">
   <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P3/app_móvil.png?raw=true" alt="Imagen representativa">
 </p>
