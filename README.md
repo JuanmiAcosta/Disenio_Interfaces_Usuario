@@ -325,11 +325,9 @@ Este sería nuestro diseño:
 
 Este es un pequeño vídeo demostrativo del funcionamiento de la app:
 
-<video controls>
-      <source src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P3/simulacion.webm" type="video/webm">
-      Tu navegador no soporta el elemento de video.
-</video>
-
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P3/app_móvil.png?raw=true" alt="Imagen representativa">
+</p>
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
