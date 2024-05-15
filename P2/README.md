@@ -1,7 +1,7 @@
 
 ## Paso 2. UX Design  
 
-![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
 El mapa de empatía de nuestro proyecto quedaría de la siguiente manera:
