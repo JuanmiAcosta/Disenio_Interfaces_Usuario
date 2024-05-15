@@ -269,10 +269,10 @@ Wireframe de crear evento:
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+El moodboard para nuetsro proyecto quedaría de la siguiente manera:
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P3/Moodboard.png?raw=true" alt="Imagen representativa">
+</p>
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
