@@ -269,7 +269,8 @@ Wireframe de crear evento:
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-El moodboard para nuetsro proyecto quedaría de la siguiente manera:
+El moodboard para nuestro proyecto que incluye nuestro la estrategia de la marca, nuestro logo final, el eslogan, la paleta de nuestros colores básicos, la tipografica, imagenes de como serán los eventose e imagenes del estilo de la página.
+Diciendo todo lo anterior quedaría de la siguiente manera:
 <p align="center">
   <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P3/Moodboard.png?raw=true" alt="Imagen representativa">
 </p>
@@ -278,14 +279,33 @@ El moodboard para nuetsro proyecto quedaría de la siguiente manera:
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
->>> Plantear Landing Page 
+La landing page para promocionar nuestra página y hacer que distintos usuarios puedan interesarse y en caso de ser así pinchen en dicha landing page y les lleve a nuestra página.
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P3/landing_page.png?raw=true" alt="Imagen representativa">
+</p>
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Los patrones usados han sido los obligatorios los cuales eran:
+-Onboarding: Paǵina principal que ve un usuario al entrar a nuestra página
+-Menu(Adaptada a móvil): Menú infrerior para navegar por las distintas páginas de nuestra app móvil.
+-Carousel: Carosusel pada mostrar las actividades mas popukares, las que esta inscrito un usuario o las que ha creaod el mismo, cada uno de estos carousel en una página diferente de la app móvil.
+-Search: Barra de búsqueda para buscar una actividad por su nombre
+-Card items: Para representar las distintas actividades.
+-Item details: Cada actividad tiene un nombre, descrpción de lo que se va a hacer en dicha actividad y la fecha de la misma.
+-Reserva: En nuestra caso es inscribirse a una actividad.
+-Form Input: Formulario para inscribirse en una actividad o crear una por un organizador de actividades.
+-About: Una pequeña descrpción de quienes somos que hacemos y que eventos ofrecemos para que un usuario pueda inscribirse o crear el mismo uno.
+
+Como patron extra hemos añadido uno:
+-Event Calendar para poder buscar una actividad por una fceha o simplementa ver en un dia seleccionado que actividades hay disponibles para poder apuntarse uno.
+
+Aquí una imagen de la app móvil con los distintos patrones explicados incluidos:
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P3/app_móvil.png?raw=true" alt="Imagen representativa">
+</p>
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
