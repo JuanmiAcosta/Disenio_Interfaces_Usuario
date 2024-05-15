@@ -1,7 +1,7 @@
 ## Paso 1. UX User & Desk Research & Analisis 
 
 
-![Método UX](img/Competitive.png) **1.a User Reseach Plan**
+ **1.a User Reseach Plan**
 -----
 La plataforma a analizar es "Rutas de los vinos por Granada", esta ofrece diferentes tipo de actividades que se pueden realizar en Granada centradas en el vino y la enología,  ofreciendo la oportunidad de realizar diferentes catas y actividades similares.
 
