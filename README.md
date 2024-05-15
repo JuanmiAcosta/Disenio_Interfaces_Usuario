@@ -310,7 +310,9 @@ Aquí una imagen de la app móvil con los distintos patrones explicados incluido
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+[Layout Figma]([https://www.google.com](https://www.figma.com/design/CcCHVL3LLKIueBs3EcpAnf/Layout?node-id=1%3A2772&t=b7OjrdzdyE4tft1u-1))
+[Layout en PDF]([[https://www.google.com](https://www.figma.com/design/CcCHVL3LLKIueBs3EcpAnf/Layout?node-id=1%3A2772&t=b7OjrdzdyE4tft1u-1)](https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P3/app_movil.pdf))
+
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
