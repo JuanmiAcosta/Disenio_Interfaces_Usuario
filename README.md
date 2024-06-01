@@ -346,37 +346,6 @@ Las siguientes imágenes resumen de manera breve nuestro UX-Case Study publicado
   <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P3/pg3.png?raw=true" alt="Imagen representativa">
 </p>
 
-## Paso 5. Exportación & evaluación con Eye Tracking 
-
-Exportación a HTML/Flutter
------
-
-![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
-
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
-
-Diseño del experimento 
-----
-
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
-
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
-
-Resultados y valoración 
------
-
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
-
-
 ## Paso 4. Evaluación 
 
 
