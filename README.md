@@ -263,7 +263,7 @@ Wireframe de buscar eventos:
 
 Wireframe de crear evento:
 <p align="center">
-  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P2/wireframeCrear.png?raw=true" alt="Imagen representativa">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P3/Captura desde 2024-06-02 13-33-47.png?raw=true" alt="Imagen representativa">
 </p>
 
 ## Paso 3. Mi UX-Case Study (diseño)
