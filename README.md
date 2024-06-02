@@ -381,9 +381,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
-# Usability Report
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="zoom:50%;" />
-
 #### Evaluación de usabilidad del proyecto 
 
 ### Mesamania
@@ -394,7 +391,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
   <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/Logo_piedra.png?raw=true" alt="Logo del proyecto">
 </p>
 
-[Enlace a GITHUB del proyecto]
 https://github.com/CarlosMunozBarco/DIU.bigotessucios
 
 ### Realizado por:  Pedro Benítez Gris y Carlos Muñoz Barco
