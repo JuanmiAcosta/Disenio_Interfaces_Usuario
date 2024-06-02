@@ -359,15 +359,12 @@ Las siguientes imágenes resumen de manera breve nuestro UX-Case Study publicado
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| ID USUARIO | SEXO/EDAD |      OCUPACIÓN      | EXPERIENCIA INTERNET | PLATAFORMA | PERFIL CUBIERTO                         | TEST | SUS SCORE | SUS GRADE |
+|:----------:|:---------:|:-------------------:|:--------------------:|:----------:|-----------------------------------------|------|-----------|:---------:|
+|      0     |  Mujer/48 |   Recursos Humanos  |         Media        |     MAC    | Minusválida/Habla varios idiomas/Triste |   A  |     75    |     B     |
+|      1     | Hombre/35 | Ingeniero Eléctrico |         Baja         |     MAC    |          Soltero/Opositor/Feliz         |   A  |    77.5   |     B     |
+|      2     | Hombre/21 |      Estudiante     |         Alta         |   Windows  |      Soltero/Videojuegos/Tranquilo      |   B  |     70    |     C     |
+|      3     | Hombre/21 |      Estudiante     |         Alta         |    Linux   |       Soltero/Triatleta/Muy Feliz       |   B  |    72.5   |     C     |
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
@@ -406,77 +403,42 @@ Obviando todo esto nos encontramos un diseño bien pensado y estructurado con el
 
 #### Test de usuarios: Participantes
 
-[tabla, ejemplo, descripción demográfica de los participantes]
-
-
-
-
+| ID USUARIO | SEXO/EDAD |      OCUPACIÓN      | EXPERIENCIA INTERNET | PLATAFORMA | PERFIL CUBIERTO                         | TEST | SUS SCORE | SUS GRADE |
+|:----------:|:---------:|:-------------------:|:--------------------:|:----------:|-----------------------------------------|------|-----------|:---------:|
+|      2     | Hombre/21 |      Estudiante     |         Alta         |   Windows  |      Soltero/Videojuegos/Tranquilo      |   B  |     70    |     C     |
+|      3     | Hombre/21 |      Estudiante     |         Alta         |    Linux   |       Soltero/Triatleta/Muy Feliz       |   B  |    72.5   |     C     |
 
 #### Resultados obtenidos
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/SUS_SCORE.jpeg?raw=true" alt="SUS Score">
+</p>
 
-
-
-(resultado de SUS)
-
-
-
-(resultado de eyetracking)
-
+El resultado del eyetracking se documenta en apartados anteriores.
 
 ## 4 CONCLUSIONES 
-
-
-
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
-
-
-
-#### Incidencias
-
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
-
-
-
-#### Valoración 
-
-* (Puntos Positivos a destacar)
-
-
+Gracias a el SUS Score suministrado por dos usuarios totalmente aleatorios que han consumido la plataforma y nos han ayudado en el eye tracking, mapa de calor, etc... además de los pequeños fallos detallados anteriormente, podemos concluir que el diseño y planteamiento de la plataforma esta bien pensado y ejecutado, aunque tenga todavia un amplio margen de mejora.
 
 #### Recomendaciones y propuesta de mejoras: 
-
-* (Puntos de mejora)
-
-
-
-
-
-
-
-#### Valoración de la prueba de usabilidad (self-assesment)
-
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
-
-
+Como recomendaciones podriamos instar a nuestros compañeros a reducir el número de elementos tanto en el nav bar inicial como en el formulario de inscripción. Esto ayudaria a enfocar más al usuario en las tareas principales.
 
 
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
 ----
+Esta última práctica 4 nos ha ayudado a tener un enfoque más amplio a la hora de realizar nuestros propios diseños, y nos ha aportado un punto de vista global acerca de todo lo aprendido sobre usabilidad, accesibilidad, reglas de la heurística...<br>
 
-
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
-
-
-
-
-
+La conclusión a todo esto es una sintesis de todos los puntos anteriores.
 
 ## Conclusión final / Valoración de las prácticas
+Durante nuestros estudios y en nuestras futuras carreras, dedicamos y seguiremos dedicando una cantidad considerable de tiempo a diseñar y desarrollar productos. A menudo, tendemos a enfocarnos más en los aspectos técnicos, descuidando un elemento crucial: un diseño de interfaz centrado en el usuario y su experiencia.
 
+Estas prácticas nos han proporcionado una comprensión más profunda de lo que implica un desarrollo integral de diseño de usuario, brindándonos la oportunidad de adquirir experiencia valiosa para nuestra trayectoria profesional. No solo hemos creado nuestro propio diseño de usuario, sino que también hemos evaluado otros, lo cual nos ha enseñado a ser autocríticos y a entender que este trabajo debe realizarse con objetividad, considerando las necesidades de diversos grupos de usuarios.
 
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+Las diferentes tareas realizadas nos han hecho darnos cuenta de la importancia de los detalles, ya que pueden marcar una gran diferencia entre productos similares.
+
+Ahora comprendemos mejor las responsabilidades de un Diseñador de Experiencia de Usuario (UX) y la relevancia de su trabajo en un equipo de diseño y desarrollo de productos.
+
+Concluimos con una valoración muy positiva de los resultados obtenidos. Tanto el esfuerzo como la dedicación invertidos en estas prácticas han sido recompensados con un diseño que consideramos bueno para el tiempo invertido en este y todo lo que engloba. Además, el resultado refleja que hemos consolidado todos los conocimientos teóricos y prácticos adquiridos a lo largo del curso.
+
 
 
 
