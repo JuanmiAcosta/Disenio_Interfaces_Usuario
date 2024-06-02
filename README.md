@@ -388,7 +388,9 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
   <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/Logo_piedra.png?raw=true" alt="Logo del proyecto">
 </p>
 
-https://github.com/CarlosMunozBarco/DIU.bigotessucios
+<p align="center">
+  https://github.com/CarlosMunozBarco/DIU.bigotessucios
+</p>
 
 ### Realizado por:  Pedro Benítez Gris y Carlos Muñoz Barco
 
