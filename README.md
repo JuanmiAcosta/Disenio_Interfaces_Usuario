@@ -375,41 +375,41 @@ Las siguientes imágenes resumen de manera breve nuestro UX-Case Study publicado
 #### Tarea de organizar un evento (Usuario 0)
 
 <p align="center">
-  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/A_1.jpeg?raw=true" alt="SUS Score">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/A_1.png?raw=true" alt="SUS Score">
 </p>
 
 <p align="center">
-  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/A_2.jpeg?raw=true" alt="SUS Score">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/A_2.png?raw=true" alt="SUS Score">
 </p>
 
 <p align="center">
-  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/A_3.jpeg?raw=true" alt="SUS Score">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/A_3.png?raw=true" alt="SUS Score">
 </p>
 
 <p align="center">
-  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/A_4.jpeg?raw=true" alt="SUS Score">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/A_4.png?raw=true" alt="SUS Score">
 </p>
 
 #### Tarea de registrarse (Usuario 2)
 
 <p align="center">
-  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/B_1.jpeg?raw=true" alt="SUS Score">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/B_1.png?raw=true" alt="SUS Score">
 </p>
 
 <p align="center">
-  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/B_2.jpeg?raw=true" alt="SUS Score">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/B_2.png?raw=true" alt="SUS Score">
 </p>
 
 <p align="center">
-  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/B_3.jpeg?raw=true" alt="SUS Score">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/B_3.png?raw=true" alt="SUS Score">
 </p>
 
 <p align="center">
-  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/B_4.jpeg?raw=true" alt="SUS Score">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/B_4.png?raw=true" alt="SUS Score">
 </p>
 
 <p align="center">
-  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/B_5.jpeg?raw=true" alt="SUS Score">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/B_5.png?raw=true" alt="SUS Score">
 </p>
 
 El análisis que podemos proporcionar con las capturas anteriores es que el usuario en los dos proyectos visualiza rápido y de manera continuada lo que debería. En el proyecto B el usuario se distrae un poco por la gran cantidad de items en navbar y formulario pero no es nada grave.
