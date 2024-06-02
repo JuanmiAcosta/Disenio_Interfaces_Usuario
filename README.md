@@ -381,14 +381,85 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
-----
+# Usability Report
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="zoom:50%;" />
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+#### Evaluación de usabilidad del proyecto 
+
+### Mesamania
+
+### 02/06/2024
+
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/Logo_piedra.png?raw=true" alt="Logo del proyecto">
+</p>
+
+[Enlace a GITHUB del proyecto]
+https://github.com/CarlosMunozBarco/DIU.bigotessucios
+
+### Realizado por:  Pedro Benítez Gris y Carlos Muñoz Barco
+
+El informe ha sido realizado por David Serrano Domínguez y Juan Miguel Acosta Ortega, y vamos documentar los puntos a destacar del proyecto de los compañeros:
+
+## 1 DESCRIPCIÓN DEL WEBSITE
+Se trata de una aplicación dirigida a un club de juegos de mesa. Se realizan demostraciones de juegos, torneos de cartas... Por otra parte ofrecen un servicio de alquiler de salas de juego y juegos de mesa. Cuentan con un sistema de socios que les permite una fácil inscripción a actividades del club y otras ventajas.
+
+## 2 RESUMEN EJECUTIVO Y METODOLOGIA 
+La plataforma cuenta en primera instancia con una home page que invita al usuario a seguir navegando por la plataforma, sin embargo abusan del contenido escrito en los widgets "cards", cosa que puede distraer al usuario del objetivo principal(call to action) que es clickar en el botón "!!!Apuntame!!!". Tras esto, y como componente principal para navegar por la aplicación nos encontramos un nav bar que consigue de manera efectiva su objetivo, aunque como se puede ver en el mapa de calor roza el número de items máximo que puede soportar el usuario medio(Miller's LAW).
+Obviando todo esto nos encontramos un diseño bien pensado y estructurado con el uso de, por ejemplo, un wizard de ayuda a la inscripción de un usuario, un scroll infinito que muestra de manera simple y concisa los torneos próximos, y un buscador general de juegos. 
+
+#### Test de usuarios: Participantes
+
+[tabla, ejemplo, descripción demográfica de los participantes]
 
 
 
->>> Valoración personal 
 
+
+#### Resultados obtenidos
+
+
+
+(resultado de SUS)
+
+
+
+(resultado de eyetracking)
+
+
+## 4 CONCLUSIONES 
+
+
+
+(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
+
+
+
+#### Incidencias
+
+* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
+
+
+
+#### Valoración 
+
+* (Puntos Positivos a destacar)
+
+
+
+#### Recomendaciones y propuesta de mejoras: 
+
+* (Puntos de mejora)
+
+
+
+
+
+
+
+#### Valoración de la prueba de usabilidad (self-assesment)
+
+(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
 
 
 
