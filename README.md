@@ -352,9 +352,13 @@ Las siguientes imágenes resumen de manera breve nuestro UX-Case Study publicado
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+### Mesamania
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+### 02/06/2024
 
+<p align="center">
+  https://github.com/CarlosMunozBarco/DIU.bigotessucios
+</p>
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
@@ -366,16 +370,58 @@ Las siguientes imágenes resumen de manera breve nuestro UX-Case Study publicado
 |      2     | Hombre/21 |      Estudiante     |         Alta         |   Windows  |      Soltero/Videojuegos/Tranquilo      |   B  |     70    |     C     |
 |      3     | Hombre/21 |      Estudiante     |         Alta         |    Linux   |       Soltero/Triatleta/Muy Feliz       |   B  |    72.5   |     C     |
 
+### Eye tracking A / B
+
+#### Tarea de organizar un evento (Usuario 0)
+
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/A_1.jpeg?raw=true" alt="SUS Score">
+</p>
+
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/A_2.jpeg?raw=true" alt="SUS Score">
+</p>
+
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/A_3.jpeg?raw=true" alt="SUS Score">
+</p>
+
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/A_4.jpeg?raw=true" alt="SUS Score">
+</p>
+
+#### Tarea de registrarse (Usuario 2)
+
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/B_1.jpeg?raw=true" alt="SUS Score">
+</p>
+
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/B_2.jpeg?raw=true" alt="SUS Score">
+</p>
+
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/B_3.jpeg?raw=true" alt="SUS Score">
+</p>
+
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/B_4.jpeg?raw=true" alt="SUS Score">
+</p>
+
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/B_5.jpeg?raw=true" alt="SUS Score">
+</p>
+
+El análisis que podemos proporcionar con las capturas anteriores es que el usuario en los dos proyectos visualiza rápido y de manera continuada lo que debería. En el proyecto B el usuario se distrae un poco por la gran cantidad de items en navbar y formulario pero no es nada grave.
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+<p align="center">
+  <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/SUS_SCORE.jpeg?raw=true" alt="SUS Score">
+</p>
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
+Estos resultados nos indican que , aunque nuestro proyecto saca una ligera mejor puntuación, los dos proyectos están bien diseñados y generan un buen rendimiento. Los dos tienen campos en los que mejorar.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 #### Evaluación de usabilidad del proyecto 
@@ -396,14 +442,14 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 El informe ha sido realizado por David Serrano Domínguez y Juan Miguel Acosta Ortega, y vamos documentar los puntos a destacar del proyecto de los compañeros:
 
-## 1 DESCRIPCIÓN DEL WEBSITE
+### 1 DESCRIPCIÓN DEL WEBSITE
 Se trata de una aplicación dirigida a un club de juegos de mesa. Se realizan demostraciones de juegos, torneos de cartas... Por otra parte ofrecen un servicio de alquiler de salas de juego y juegos de mesa. Cuentan con un sistema de socios que les permite una fácil inscripción a actividades del club y otras ventajas.
 
-## 2 RESUMEN EJECUTIVO Y METODOLOGIA 
+###  2 RESUMEN EJECUTIVO Y METODOLOGIA 
 La plataforma cuenta en primera instancia con una home page que invita al usuario a seguir navegando por la plataforma, sin embargo abusan del contenido escrito en los widgets "cards", cosa que puede distraer al usuario del objetivo principal(call to action) que es clickar en el botón "!!!Apuntame!!!". Tras esto, y como componente principal para navegar por la aplicación nos encontramos un nav bar que consigue de manera efectiva su objetivo, aunque como se puede ver en el mapa de calor roza el número de items máximo que puede soportar el usuario medio(Miller's LAW).
 Obviando todo esto nos encontramos un diseño bien pensado y estructurado con el uso de, por ejemplo, un wizard de ayuda a la inscripción de un usuario, un scroll infinito que muestra de manera simple y concisa los torneos próximos, y un buscador general de juegos. 
 
-#### Test de usuarios: Participantes
+### 3 Test de usuarios: Participantes
 
 | ID USUARIO | SEXO/EDAD |      OCUPACIÓN      | EXPERIENCIA INTERNET | PLATAFORMA | PERFIL CUBIERTO                         | TEST | SUS SCORE | SUS GRADE |
 |:----------:|:---------:|:-------------------:|:--------------------:|:----------:|-----------------------------------------|------|-----------|:---------:|
@@ -415,9 +461,9 @@ Obviando todo esto nos encontramos un diseño bien pensado y estructurado con el
   <img src="https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario/blob/master/P4/SUS_SCORE.jpeg?raw=true" alt="SUS Score">
 </p>
 
-El resultado del eyetracking se documenta en apartados anteriores.
+El resultado del eyetracking se documenta en apartados anteriores. Como se puede ver los dos usuarios inferiores que son los encargados de evaluar el proyecto B (Mesamanía) concuerdan y sacan una puntuación similar.
 
-## 4 CONCLUSIONES 
+### 4 CONCLUSIONES 
 Gracias a el SUS Score suministrado por dos usuarios totalmente aleatorios que han consumido la plataforma y nos han ayudado en el eye tracking, mapa de calor, etc... además de los pequeños fallos detallados anteriormente, podemos concluir que el diseño y planteamiento de la plataforma esta bien pensado y ejecutado, aunque tenga todavia un amplio margen de mejora.
 
 #### Recomendaciones y propuesta de mejoras: 
